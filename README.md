@@ -1,1 +1,3 @@
 # hakto
+Apple
+Samsung
